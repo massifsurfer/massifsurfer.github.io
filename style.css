@@ -1,0 +1,153 @@
+.navbar {
+    position: fixed;
+    background-color: #007765;
+    height: 90px;
+    width: 100%;
+    overflow: hidden;
+}
+
+a, a:hover, a:visited, a:active {
+    color: inherit;
+    text-decoration: none;
+}
+.buttholder {
+    display: inline-block;
+    float: right;
+    padding-right: 50px;
+    margin-top: 35px;
+}
+
+.navbutt {
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 16px;
+}
+
+.vector {
+    margin-top: 20px;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+main {
+    padding-top: 40px;
+}
+
+.jumbotron {
+    height: 400px;
+    background-image: url("images/image.png");
+}
+
+.jumbotron p {
+    color: white;
+    font-family: "DejaVu Sans Mono", serif;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 200px;
+}
+
+.grayscale {
+    background-color: #e7eaea;
+}
+
+.text {
+    padding-bottom: 40px;
+    font-family: sans-serif;
+}
+
+.text .sign {
+    float: left;
+    width: 80px;
+    height: auto;
+    margin-left: 140px;
+    margin-right: 16px;
+}
+
+h1 {
+    color: #007765;
+    text-align: center;
+    font-size: 36px;
+    padding-top: 40px;
+    margin-top: 0;
+    padding-bottom: 20px;
+}
+
+.text p {
+    padding-left: 350px;
+    margin-right: 300px;
+    padding-right: 50px;
+}
+
+.text .sign {
+    padding-left: 160px;
+}
+
+.lower-jumbotron {
+    background-image: url("images/lower-image.png");
+    height: 400px;
+}
+
+.lower-jumbotron p {
+    margin-top: 0;
+    padding-top: 150px;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+}
+
+.team img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 110px;
+}
+
+
+.team {
+    height: 450px;
+}
+
+.members {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+.member {
+    flex-basis: 33%;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+
+.team .name {
+    color: #007765;
+    margin: 3px;
+    padding-top: 10px;
+    padding-left: 0;
+}
+
+.team .position {
+    font-style: italic;
+    margin: 3px;
+    padding-left: 0;
+}
+
+footer {
+    background-color: #333333;
+    height: auto;
+}
+
+footer p {
+    text-align: center;
+    margin: 0 350px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    color: white;
+    font-family: "Gayathri Thin", serif;
+    font-size: 20px;
+}
