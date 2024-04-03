@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Еда, которую мы готовим on DIKIDU - Чеченская кухня</title>
-    <link>https://massifsurfer.github.io/nokhchiyn-cookery/products/</link>
+    <link>/products/</link>
     <description>Recent content in Еда, которую мы готовим on DIKIDU - Чеченская кухня</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate>
-    <atom:link href="https://massifsurfer.github.io/nokhchiyn-cookery/products/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Жареная черемша</title>
-      <link>https://massifsurfer.github.io/nokhchiyn-cookery/products/example3/</link>
+      <link>/products/example3/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
-      <guid>https://massifsurfer.github.io/nokhchiyn-cookery/products/example3/</guid>
+      <guid>/products/example3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi.</description>
     </item>
     <item>
       <title>Жижиг г1алнаш</title>
-      <link>https://massifsurfer.github.io/nokhchiyn-cookery/products/example/</link>
+      <link>/products/example/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
-      <guid>https://massifsurfer.github.io/nokhchiyn-cookery/products/example/</guid>
+      <guid>/products/example/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi.</description>
     </item>
     <item>
       <title>Сискал</title>
-      <link>https://massifsurfer.github.io/nokhchiyn-cookery/products/example2/</link>
+      <link>/products/example2/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
-      <guid>https://massifsurfer.github.io/nokhchiyn-cookery/products/example2/</guid>
+      <guid>/products/example2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi.</description>
     </item>
   </channel>
