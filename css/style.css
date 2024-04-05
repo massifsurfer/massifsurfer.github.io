@@ -137,7 +137,8 @@ html {
   left: 50%;
   transform: translate(-50%, -50%);
   opacity: 0;
-  background-color:#6a799b50;
+  background-color:rgba(116, 121, 93, 0.671);
+  text-align:center;
 }
 .swiper-slide .s-fade-txt {
   animation: FadeAni 0.5s ease 1s 1 normal both;
